@@ -4,7 +4,6 @@ import java.awt.event.ActionListener;
 import rpn.szamologep.benedek.hazi.model.MemoryManager;
 import rpn.szamologep.benedek.hazi.model.RpnEngine;
 import rpn.szamologep.benedek.hazi.view.CalculatorView;
-import javax.swing.AbstractButton;
 import java.util.EmptyStackException;
 
 public class Controller implements ActionListener {
